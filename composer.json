@@ -1,0 +1,15 @@
+{
+    "name": "liweizhao/duckphp",
+    "description": "a duckphp demo",
+    "type": "project",
+    "license": "apache2",
+    "authors": [
+        {
+            "name": "wenyi",
+            "email": "tianyipc@gmail.com"
+        }
+    ],
+    "require": {
+        "dvaknheo/duckphp": "dev-master"
+    }
+}
